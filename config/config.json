@@ -1,8 +1,8 @@
 {
     "title": "githubdocs",
-    "githubRepoOwner": "mrvautin",
+    "githubRepoOwner": "rafa2000",
     "githubRepoName": "githubdocs",
-    "githubRepoPath": "exampleDocs",
+    "githubRepoPath": "netrunnerDocs",
     "updateDocsInterval": 300000,
     "menuItems": [
         {
